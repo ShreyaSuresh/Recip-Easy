@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bottom_nav_bar.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/searchbar.xml" value="0.132" />
+        <entry key="app/src/main/res/font/gagalin.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23505434782608695" />
+        <entry key="app/src/main/res/layout/activity_options.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_recipe.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_steps.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/empty_activity.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.14617462158203126" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.12613981762917933" />
+        <entry key="app/src/main/res/layout/opening_page.xml" value="0.2719879150390625" />
+        <entry key="app/src/main/res/layout/opening_signin.xml" value="0.28125" />
+        <entry key="app/src/main/res/layout/options_list.xml" value="0.16666666666666666" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3947555541992187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.13786163330078124" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

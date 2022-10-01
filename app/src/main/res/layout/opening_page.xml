@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".OpeningActivity">
+
+    <Button
+        android:id="@+id/sign_in"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/button"
+        android:gravity="center"
+        android:text="Sign-In"
+        app:backgroundTint="@color/mid_magenta"
+        app:fontFamily="@font/gagalin"
+        android:textColor="@color/beige"
+        app:layout_constraintBottom_toTopOf="@+id/sign_up"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/sign_up"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/button"
+        android:text="Sign-Up"
+        android:textColor="@color/beige"
+        app:backgroundTint="@color/dark_green"
+        app:fontFamily="@font/gagalin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sign_in"
+        android:gravity="center"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
