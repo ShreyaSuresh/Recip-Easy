@@ -34,7 +34,6 @@ import java.util.ArrayList;
 public class LoadRecipe extends AppCompatActivity {
     String id;
     String img;
-    ArrayList<String>info;
     Context context;
     String title;
     String key = "8ad6e9fe49b04bf9b77792e7a305833e";
